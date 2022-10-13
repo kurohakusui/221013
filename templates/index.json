@@ -1,51 +1,63 @@
 {
   "sections": {
-    "multicolumn": {
-      "type": "multicolumn",
+    "8d45f8ac-d5ed-4e17-8332-dcb0d4f824cd": {
+      "type": "slick",
       "blocks": {
-        "d85fb499-1d3e-48ec-af56-661aa930e947": {
-          "type": "column",
+        "9ed465d9-8654-4c5e-93d2-d4bd5c5e2173": {
+          "type": "slick",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/white-bowl-surrounded-by-herbs-chilis-and-lime-slices.jpg",
+            "slick_title2": "見出しが入ります。"
+          }
+        },
+        "0f592bf2-8658-47d1-8621-18e89600349a": {
+          "type": "slick",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/green-and-white-marbled-coloring.jpg",
+            "slick_title2": "見出しが入ります。"
+          }
+        },
+        "14942d8e-b65a-4d95-b390-97ae7929b5da": {
+          "type": "slick",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/person-stands-on-rocks-poking-out-of-the-ocean-shoreline.jpg",
+            "slick_title2": "見出しが入ります。"
+          }
+        },
+        "c07ddef9-0542-477d-8d6d-3ff21315adc8": {
+          "type": "slick",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/orange-poles-create-a-tunnel.jpg",
+            "slick_title2": "見出しが入ります。"
+          }
+        },
+        "ccc5309b-7595-4373-9ca3-18a7a07be0d0": {
+          "type": "slick",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/a-bridge-sitting-in-thick-pink-and-purple-fog.jpg",
+            "slick_title2": "見出しが入ります。"
           }
         }
       },
       "block_order": [
-        "d85fb499-1d3e-48ec-af56-661aa930e947"
+        "9ed465d9-8654-4c5e-93d2-d4bd5c5e2173",
+        "0f592bf2-8658-47d1-8621-18e89600349a",
+        "14942d8e-b65a-4d95-b390-97ae7929b5da",
+        "c07ddef9-0542-477d-8d6d-3ff21315adc8",
+        "ccc5309b-7595-4373-9ca3-18a7a07be0d0"
       ],
       "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "7c2db953-6ee8-4881-bc69-ec9df550a6b9": {
-      "type": "contact-form",
-      "settings": {
-        "heading": "Contact form",
-        "heading_size": "h1",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "slick_title": "",
+        "slick_height": "medium",
+        "text_size": "medium",
+        "text_alignment": "center center",
+        "show_overlay": true,
+        "auto": false,
+        "speed": 5
       }
     }
   },
   "order": [
-    "multicolumn",
-    "7c2db953-6ee8-4881-bc69-ec9df550a6b9"
+    "8d45f8ac-d5ed-4e17-8332-dcb0d4f824cd"
   ]
 }
